@@ -1,0 +1,125 @@
+/**************************TAGS***********************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 5%
+}
+
+h1 {
+  margin-top: 0;
+  padding-top: 10%;
+  font-size: 400%;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  margin: 0;
+  font-size: 2.3em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+/**********************CLASS**************************/
+.top-container {
+  background-color: #c6f1d6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+padding-bottom: 100px;
+}
+
+.cloud-top {
+  position: absolute;
+  top: 10%;
+  right: 15%;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 12%;
+}
+
+.mountain-center {
+  margin: 0;
+  padding-top: 100px;
+}
+
+.profile {
+  margin-top: 5%;
+  margin-bottom: 10%;
+  font-size: 1.5em;
+}
+
+.skills {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  font-size: 1.2em;
+}
+
+.skill-row1 {
+  position: relative;
+  padding-bottom: 2%;
+  width: 25%;
+  height: 25%;
+}
+
+.skill-img1{
+  position: relative;
+  left: 10%;
+  width: 100%;
+  height: 150%;
+}
+
+.Keterangan {
+  position: absolute;
+  text-align: left;
+  left: 130%;
+  top: 10%;
+  width: 150%;
+  height: 50%;
+}
+
+.skill-row2 {
+  position: relative;
+  padding-top: 5%;
+  padding-bottom: 1%;
+}
+
+.skill-img2 {
+  position: relative;
+  left: 35%;
+  width: 20%;
+  height: 30%;
+}
+
+.keterangan-2 {
+  position: absolute;
+  text-align: left;
+  right: 28%;
+  top: 10%;
+  width: 40%;
+  height: 50%;
+}
+
+.contact-me {
+  padding-top: 5%;
+}
+
+.bottom-container {
+  background-color: #f67e7d;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
